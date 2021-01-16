@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="14f5df0e-3310-467a-b444-b6cbfc8621ae" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/app/components/card/card.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/components/card/card.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/components/card/card.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/components/card/card.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/components/transaction/transaction.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/components/transaction/transaction.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/components/transaction/transaction.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/components/transaction/transaction.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/components/transfer/transfer.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/components/transfer/transfer.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/components/transfer/transfer.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/components/transfer/transfer.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/services/mapper.service.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/services/mapper.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/services/transaction-storage.service.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/services/transaction-storage.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/services/transaction.service.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/services/transaction.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/validators/invalid-amount.directive.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/validators/overdraft-limit.directive.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/123.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/7-eleven.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/amazon-online-store.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/backbase.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/briefcase.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/h&amp;m-online-store.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/jerry-hildreth.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/lawrence-pearson.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/southern-electric-company.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/texaco.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/the-tea-lounge.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/transactions.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/whole-foods.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/polyfills.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/polyfills.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1n1KG5D5627V2pjqkGzr3Z6kIFH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/assets" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/assets" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/app/components" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.Angular CLI Server">
+    <configuration name="Tests (recruitment-app)" type="JavaScriptTestRunnerKarma">
+      <config-file value="$PROJECT_DIR$/karma.conf.js" />
+      <working-directory value="$PROJECT_DIR$" />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="E2E Tests (recruitment-app)" type="JavaScriptTestRunnerProtractor">
+      <config-file value="$PROJECT_DIR$/e2e/protractor.conf.js" />
+      <node-interpreter value="project" />
+      <protractor-options value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular Application" type="JavascriptDebugType" uri="http://localhost:4200">
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular CLI Server" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="14f5df0e-3310-467a-b444-b6cbfc8621ae" name="Default Changelist" comment="" />
+      <created>1610552057921</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610552057921</updated>
+      <workItem from="1610552061396" duration="68313000" />
+      <workItem from="1610713256045" duration="21381000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-730" y="395" key="#Notifications" timestamp="1610759350283">
+      <screen x="-3440" y="-195" width="3440" height="1440" />
+    </state>
+    <state x="-730" y="395" key="#Notifications/-3440.-195.3440.1440/0.0.1920.1200@-3440.-195.3440.1440" timestamp="1610759350283" />
+    <state width="1693" height="520" key="GridCell.Tab.0.bottom" timestamp="1610624611344">
+      <screen x="-3440" y="-195" width="3440" height="1440" />
+    </state>
+    <state width="1693" height="520" key="GridCell.Tab.0.bottom/-3440.-195.3440.1440/0.0.1920.1200@-3440.-195.3440.1440" timestamp="1610624611344" />
+    <state width="1693" height="520" key="GridCell.Tab.0.center" timestamp="1610624611343">
+      <screen x="-3440" y="-195" width="3440" height="1440" />
+    </state>
+    <state width="1693" height="520" key="GridCell.Tab.0.center/-3440.-195.3440.1440/0.0.1920.1200@-3440.-195.3440.1440" timestamp="1610624611343" />
+    <state width="1693" height="520" key="GridCell.Tab.0.left" timestamp="1610624611343">
+      <screen x="-3440" y="-195" width="3440" height="1440" />
+    </state>
+    <state width="1693" height="520" key="GridCell.Tab.0.left/-3440.-195.3440.1440/0.0.1920.1200@-3440.-195.3440.1440" timestamp="1610624611343" />
+    <state width="1693" height="520" key="GridCell.Tab.0.right" timestamp="1610624611344">
+      <screen x="-3440" y="-195" width="3440" height="1440" />
+    </state>
+    <state width="1693" height="520" key="GridCell.Tab.0.right/-3440.-195.3440.1440/0.0.1920.1200@-3440.-195.3440.1440" timestamp="1610624611344" />
+    <state width="1693" height="520" key="GridCell.Tab.1.bottom" timestamp="1610624611347">
+      <screen x="-3440" y="-195" width="3440" height="1440" />
+    </state>
+    <state width="1693" height="520" key="GridCell.Tab.1.bottom/-3440.-195.3440.1440/0.0.1920.1200@-3440.-195.3440.1440" timestamp="1610624611347" />
+    <state width="1693" height="520" key="GridCell.Tab.1.center" timestamp="1610624611345">
+      <screen x="-3440" y="-195" width="3440" height="1440" />
+    </state>
+    <state width="1693" height="520" key="GridCell.Tab.1.center/-3440.-195.3440.1440/0.0.1920.1200@-3440.-195.3440.1440" timestamp="1610624611345" />
+    <state width="1693" height="520" key="GridCell.Tab.1.left" timestamp="1610624611345">
+      <screen x="-3440" y="-195" width="3440" height="1440" />
+    </state>
+    <state width="1693" height="520" key="GridCell.Tab.1.left/-3440.-195.3440.1440/0.0.1920.1200@-3440.-195.3440.1440" timestamp="1610624611345" />
+    <state width="1693" height="520" key="GridCell.Tab.1.right" timestamp="1610624611346">
+      <screen x="-3440" y="-195" width="3440" height="1440" />
+    </state>
+    <state width="1693" height="520" key="GridCell.Tab.1.right/-3440.-195.3440.1440/0.0.1920.1200@-3440.-195.3440.1440" timestamp="1610624611346" />
+    <state width="1693" height="520" key="GridCell.Tab.2.bottom" timestamp="1610624611349">
+      <screen x="-3440" y="-195" width="3440" height="1440" />
+    </state>
+    <state width="1693" height="520" key="GridCell.Tab.2.bottom/-3440.-195.3440.1440/0.0.1920.1200@-3440.-195.3440.1440" timestamp="1610624611349" />
+    <state width="1693" height="520" key="GridCell.Tab.2.center" timestamp="1610624611348">
+      <screen x="-3440" y="-195" width="3440" height="1440" />
+    </state>
+    <state width="1693" height="520" key="GridCell.Tab.2.center/-3440.-195.3440.1440/0.0.1920.1200@-3440.-195.3440.1440" timestamp="1610624611348" />
+    <state width="1693" height="520" key="GridCell.Tab.2.left" timestamp="1610624611347">
+      <screen x="-3440" y="-195" width="3440" height="1440" />
+    </state>
+    <state width="1693" height="520" key="GridCell.Tab.2.left/-3440.-195.3440.1440/0.0.1920.1200@-3440.-195.3440.1440" timestamp="1610624611347" />
+    <state width="1693" height="520" key="GridCell.Tab.2.right" timestamp="1610624611348">
+      <screen x="-3440" y="-195" width="3440" height="1440" />
+    </state>
+    <state width="1693" height="520" key="GridCell.Tab.2.right/-3440.-195.3440.1440/0.0.1920.1200@-3440.-195.3440.1440" timestamp="1610624611348" />
+    <state width="1693" height="520" key="GridCell.Tab.3.bottom" timestamp="1610624611351">
+      <screen x="-3440" y="-195" width="3440" height="1440" />
+    </state>
+    <state width="1693" height="520" key="GridCell.Tab.3.bottom/-3440.-195.3440.1440/0.0.1920.1200@-3440.-195.3440.1440" timestamp="1610624611351" />
+    <state width="1693" height="520" key="GridCell.Tab.3.center" timestamp="1610624611350">
+      <screen x="-3440" y="-195" width="3440" height="1440" />
+    </state>
+    <state width="1693" height="520" key="GridCell.Tab.3.center/-3440.-195.3440.1440/0.0.1920.1200@-3440.-195.3440.1440" timestamp="1610624611350" />
+    <state width="1693" height="520" key="GridCell.Tab.3.left" timestamp="1610624611350">
+      <screen x="-3440" y="-195" width="3440" height="1440" />
+    </state>
+    <state width="1693" height="520" key="GridCell.Tab.3.left/-3440.-195.3440.1440/0.0.1920.1200@-3440.-195.3440.1440" timestamp="1610624611350" />
+    <state width="1693" height="520" key="GridCell.Tab.3.right" timestamp="1610624611351">
+      <screen x="-3440" y="-195" width="3440" height="1440" />
+    </state>
+    <state width="1693" height="520" key="GridCell.Tab.3.right/-3440.-195.3440.1440/0.0.1920.1200@-3440.-195.3440.1440" timestamp="1610624611351" />
+    <state x="-1257" y="265" key="Vcs.Push.Dialog.v2" timestamp="1610759303116">
+      <screen x="-3440" y="-195" width="3440" height="1440" />
+    </state>
+    <state x="-1257" y="265" key="Vcs.Push.Dialog.v2/-3440.-195.3440.1440/0.0.1920.1200@-3440.-195.3440.1440" timestamp="1610759303116" />
+    <state x="-1150" y="157" width="586" height="735" key="find.popup" timestamp="1610696011852">
+      <screen x="-3440" y="-195" width="3440" height="1440" />
+    </state>
+    <state x="-1150" y="157" width="586" height="735" key="find.popup/-3440.-195.3440.1440/0.0.1920.1200@-3440.-195.3440.1440" timestamp="1610696011852" />
+    <state x="-1192" y="136" width="670" height="676" key="search.everywhere.popup" timestamp="1610694094511">
+      <screen x="-3440" y="-195" width="3440" height="1440" />
+    </state>
+    <state x="-1192" y="136" width="670" height="676" key="search.everywhere.popup/-3440.-195.3440.1440/0.0.1920.1200@-3440.-195.3440.1440" timestamp="1610694094511" />
+  </component>
+</project>

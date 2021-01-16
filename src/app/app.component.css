@@ -1,0 +1,20 @@
+.transfers {
+  display: block;
+  height: 24px;
+  width: 28px;
+  position: absolute;
+  background-image: url("../assets/arrows.png");
+}
+
+.transactions {
+  background: url("../assets/briefcase.png");
+  display: block;
+  position: absolute;
+  height: 24px;
+  width: 28px;
+}
+
+.cards {
+  padding-top: 5em;
+  padding-left: 7em;
+}

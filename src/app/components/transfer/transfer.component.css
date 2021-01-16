@@ -1,0 +1,36 @@
+input {
+  width: 100%;
+  border: none;
+  border-bottom: 1px solid rgba(163, 163, 163, 0.52);
+  background-color: transparent;
+}
+
+label {
+  font-weight: bolder;
+}
+
+button {
+  background-color: orange;
+  color: white;
+  border: none;
+  padding: 15px 70px 15px 70px;
+  margin-top: 30px;
+  font-size: 20px;
+}
+
+button:disabled{
+  background-color: orange;
+}
+
+button:hover {
+  background-color: #e79500;
+}
+
+.btn-invisible {
+  display: none;
+}
+
+.validator {
+  color: red;
+  font-size: 15px;
+}

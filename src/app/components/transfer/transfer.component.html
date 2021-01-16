@@ -1,0 +1,34 @@
+<div class="card-body">
+
+  <form [formGroup]="myForm">
+    <div class="form-group">
+      <label> FROM ACCOUNT </label>
+      <input type="text" formControlName="from" value="Free Checking(4692) - $ {{this.accountBalance}}" disabled>
+    </div>
+    <div class="form-group">
+      <label> TO ACCOUNT </label>
+      <input type="text" formControlName="to">
+      <ng-container *ngIf="myForm.get('to').status === 'INVALID' && myForm.get('to').touched">
+        <span class="validator" *ngIf="myForm.get('to').errors.required">This field is required</span>
+      </ng-container>
+    </div>
+    <div class="form-group">
+      <label> AMOUNT </label>
+      <input type="number" formControlName="amountToTransfer" placeholder="$ 0.00">
+      <ng-container
+        *ngIf="myForm.get('amountToTransfer').status === 'INVALID' && myForm.get('amountToTransfer').touched">
+        <span class="validator d-flex" *ngIf="myForm.get('amountToTransfer').errors.required">This field is required</span>
+        <span class="validator" *ngIf="myForm.get('amountToTransfer').errors.overdraftLimit">You reached a maximum overdraft of {{overdraftLimit}} </span>
+        <span class="validator d-flex" *ngIf="myForm.get('amountToTransfer').errors.invalidAmount">Please insert a valid amount</span>
+      </ng-container>
+    </div>
+    <div class="form-group d-flex justify-content-end">
+      <button [disabled]="myForm.status === 'INVALID'" (click)="onSubmit()" id="submitBtn" type="button"
+              class="btn btn-primary">Submit
+      </button>
+      <button (click)="onTransfer()" id="transferBtn" type="button" class="btn btn-primary btn-invisible">Transfer
+      </button>
+    </div>
+  </form>
+
+</div>
